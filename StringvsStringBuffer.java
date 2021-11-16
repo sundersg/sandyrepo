@@ -15,6 +15,7 @@ public class StringvsStringBuffer {
 		StringBuffer sb= new StringBuffer("Durga");
 		sb.append("software"); 
 		System.out.println("StringBuffer example---"+sb);
+		System.out.println("Code modified");
 	}
 
 }
